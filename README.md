@@ -1,4 +1,4 @@
-# Simple File Upload with Djangoe
+# Simple File Upload with Django
 
 ## Running Locally
 
